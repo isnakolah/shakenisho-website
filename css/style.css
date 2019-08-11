@@ -1156,4 +1156,14 @@ text-shadow: none;
 		font-size: 2em;
 	}
 
+	#logo {
+		width: 100px;
+		height: 100px;
+	}
 	
+	@media screen and (max-width: 500px) {
+		#logo {
+			height: 70px;
+			width: 70px
+		}
+	}
