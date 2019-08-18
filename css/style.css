@@ -1527,3 +1527,9 @@ you can use the generic selector below, but it's slower:
     width: 70px;
   }
 }
+
+@media screen and (max width: 450px) {
+  body {
+    background-image
+  }
+}
