@@ -11,3 +11,9 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
 }
+.list-group-item {
+    font-weight: bold;
+}
+#targets {
+    width: 75%;
+}
